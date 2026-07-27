@@ -53,7 +53,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, setIsOpen }) => {
                             <div className="p-2 bg-gradient-to-br from-[#00ADAC] to-[#007c7b] rounded-lg">
                                 <SearchIcon className="h-6 w-6 text-white" />
                             </div>
-                            <span className="ml-3 text-lg font-bold text-white">Rastreador SJ</span>
+                            <span className="ml-3 text-lg font-bold text-white">Rastreador Bom Lar</span>
                         </div>
                         <button onClick={() => setIsOpen(false)} className="md:hidden text-gray-400 hover:text-white">
                             <XIcon className="h-6 w-6" />
