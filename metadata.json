@@ -1,0 +1,6 @@
+{
+  "name": "Rastreador SJ e VN",
+  "description": "Um aplicativo para rastrear preços de medicamentos e produtos , permitindo buscas individuais ou em lote via upload de planilhas. Aprimorado com IA da Gemini para análise de dados e um chatbot assistente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
